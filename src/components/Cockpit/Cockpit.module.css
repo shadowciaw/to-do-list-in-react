@@ -1,0 +1,17 @@
+.add {
+  border: 3px solid lightblue;
+  background-color: rgb(231, 249, 255);
+}
+
+.edit {
+  border: 3px solid rgb(48, 255, 221);
+  background-color: rgb(202, 255, 248);
+}
+
+.Cockpit {
+  text-align: center;
+  width: 50%;
+  border-radius: 5%;
+  padding: 10px;
+  margin: 16px auto;
+}

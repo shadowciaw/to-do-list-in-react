@@ -1,0 +1,18 @@
+.complete {
+  border: 2px solid olivedrab;
+  background-color: lightgreen;
+}
+
+.incomplete {
+  border: 2px solid salmon;
+  background-color: rgb(255, 235, 235);
+}
+
+.ToDoItem {
+  border-radius: 3%;
+  width: 50%;
+  margin: 10px auto;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 2px 2px rgb(255, 228, 228);
+}
